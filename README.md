@@ -1,7 +1,7 @@
 ### Hi, my name is
 # Hardanish Singh
-#### I'm a Full Stack Developer based in Windsor, Ontario, Canada specializing in C/C++, Java, C#, ASP.NET, Python, SQL, PL/SQL, JavaScript, React, Angular and React Native.
-#### Currently, I'm working as Senior Software Engineer at Ford Motor Company.
+#### I'm a Full Stack Developer based in Windsor, Ontario, Canada specializing in C, C++, Java, C#, ASP.NET, Python, SQL, PL/SQL, JavaScript, React, Angular and React Native.
+#### Currently, I'm working as Senior Software Developer at Ford Motor Company.
 
 ### More about me..
 
